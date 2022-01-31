@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Spot Resource
 
-You can use the [editor on GitHub](https://github.com/iwamot/iwamot.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+私、岩本隆史 (iwamot) が個人で営んでいる事業を紹介します。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 事業の概要
 
-### Markdown
+- ITサービス・ソフトウェア開発
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 屋号
 
-```markdown
-Syntax highlighted code block
+- Spot Resource (カナ名 : スポットリソース)
+- 「[EC2の**スポット**インスタンス](https://aws.amazon.com/jp/ec2/spot/?cards.sort-by=item.additionalFields.startDateTime&cards.sort-order=asc)のように、必要なときだけ開発**リソース**として使ってほしい」という意味を込めています
 
-# Header 1
-## Header 2
-### Header 3
+### 自己紹介
 
-- Bulleted
-- List
+- 名前 : 岩本隆史
+- 好きなこと : システム品質の向上、技術的負債の返済
+- 勤務先 (直近3件)
+  - ENECHANGE株式会社、インフラエンジニア (2021-07 ～)
+  - アマゾンウェブサービスジャパン株式会社、サポートエンジニア (2020-08 ～ 2021-07)
+  - ベルトラ株式会社、ソフトウェアエンジニア (2017-02 ～ 2020-07)
+- 資格
+  - 情報処理技術者試験の現行全区分に合格済み
+  - [AWS認定](https://www.credly.com/users/iwamot/badges)
+  - JAPAN MENSA会員
+- SNS
+  - [Twitter](https://twitter.com/iwamot)
+  - [LinkedIn](https://www.linkedin.com/in/iwamot/)
 
-1. Numbered
-2. List
+### お問い合わせ
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iwamot/iwamot.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- hello@iwamot.com
