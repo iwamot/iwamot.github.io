@@ -1,17 +1,13 @@
-## Spot Resource
-
-私、岩本隆史 (iwamot) が個人で営んでいる事業を紹介します。
-
-### 事業の概要
+## 事業の概要
 
 - ITサービス・ソフトウェア開発
 
-### 屋号
+## 屋号
 
 - Spot Resource (カナ名 : スポットリソース)
-- 「[EC2の**スポット**インスタンス](https://aws.amazon.com/jp/ec2/spot/?cards.sort-by=item.additionalFields.startDateTime&cards.sort-order=asc)のように、必要なときだけ開発**リソース**として使ってほしい」という意味を込めています
+- 「EC2の**スポット**インスタンスのように、必要なときだけ開発**リソース**として使ってほしい」という意味を込めています
 
-### 自己紹介
+## 自己紹介
 
 - 名前 : 岩本隆史
 - 好きなこと : システム品質の向上、技術的負債の返済
@@ -27,6 +23,6 @@
   - [Twitter](https://twitter.com/iwamot)
   - [LinkedIn](https://www.linkedin.com/in/iwamot/)
 
-### お問い合わせ
+## お問い合わせ
 
 - hello@iwamot.com
